@@ -2,6 +2,9 @@
 
 A demo of my flutter experience
 
+You can run the app by opening up Android Studio and running it on your local device. Or if you have flutter installed in your computer, you can run ```flutter run```. You may also run this app on an Android or iOS simulator
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
